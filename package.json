@@ -1,0 +1,20 @@
+{
+  "name": "parcel-troubles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel example.js"
+  },
+  "keywords": [],
+  "author": "Wes Bos",
+  "license": "ISC",
+  "alias": {
+    "process": false
+  },
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "@sentry/browser": "7.28.0",
+    "axios": "1.2.1"
+  }
+}

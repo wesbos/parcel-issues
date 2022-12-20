@@ -1,3 +1,7 @@
+## Edit: Fix is here: https://github.com/parcel-bundler/parcel/issues/7697#issuecomment-1360074613
+
+
+
 ## Parcel `process` issues
 
 Related to [/parcel-bundler/parcel/issues/7697](https://github.com/parcel-bundler/parcel/issues/7697)

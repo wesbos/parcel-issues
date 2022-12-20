@@ -1,5 +1,7 @@
 ## Parcel `process` issues
 
+Related to [/parcel-bundler/parcel/issues/7697](https://github.com/parcel-bundler/parcel/issues/7697)
+
 1. `pnpm install`
 2. `pnpm run parcel`
 
